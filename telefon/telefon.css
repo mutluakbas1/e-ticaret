@@ -1,7 +1,7 @@
 
 table,
 td {
-    border: 1px solid black;
+    border: 3px solid black;
     border-collapse: collapse;
 }
 
@@ -22,22 +22,22 @@ button {
     
 
 }
-#nike {
+#iphone {
     
     background-color: black;
-    color: aquamarine;
+    color: white;
 }
-#adidas {
+#samsung {
     background-color: blue;
     color: aquamarine;
 }
-#puma {
-    color: black;
-    background-color: yellowgreen;
-    color: aquamarine;
+#sony {
+    
+    background-color: greenyellow;
+    color: red;
 }
 h1 {
-    text-decoration:line-through;
+    text-decoration:none;
 }
  p {
      font-size: large;
