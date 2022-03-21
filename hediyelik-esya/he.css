@@ -1,0 +1,42 @@
+
+table,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr,
+td {
+    padding: 20px;
+    
+}
+
+table td {
+    text-align: center;
+    font-size: large;
+}
+button {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20%;
+    
+
+}
+#cikolata {
+    background-color: black;
+    color: aquamarine;
+}
+#cicek {
+    background-color: blue;
+    color: aquamarine;
+}
+#kalem {
+    background-color: red;
+    color: aquamarine;
+}
+h1 {
+    text-decoration: underline;
+}
+ p {
+     font-size: large;
+ }
