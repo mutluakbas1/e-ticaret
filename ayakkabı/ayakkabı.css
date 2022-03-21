@@ -1,7 +1,7 @@
 
 table,
 td {
-    border: 5px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
 }
 
@@ -22,20 +22,21 @@ button {
     
 
 }
-#siyahsaat {
+#nike {
     background-color: black;
     color: aquamarine;
 }
-#mavisaat {
+#adidas {
     background-color: blue;
     color: aquamarine;
 }
-#kırmızısaat {
-    background-color: red;
+#puma {
+    color: black;
+    background-color: yellowgreen;
     color: aquamarine;
 }
 h1 {
-    text-decoration: underline;
+    text-decoration:line-through;
 }
  p {
      font-size: large;
