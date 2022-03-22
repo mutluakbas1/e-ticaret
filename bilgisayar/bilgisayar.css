@@ -1,0 +1,42 @@
+
+table,
+td {
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+
+tr,
+td {
+    padding: 20px;
+    
+}
+
+table td {
+    text-align: center;
+    font-size: large;
+}
+button {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20%;
+    
+
+}
+#apple {
+    background-color: black;
+    color: white;
+}
+#hp {
+    background-color: blue;
+    color: white;
+}
+#acer {
+    background-color: red;
+    color: white;
+}
+h1 {
+    text-decoration: underline;
+}
+ p {
+     font-size: large;
+ }
